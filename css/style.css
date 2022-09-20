@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+.header {
+    position: absolute;
+    width: 100%;
+    height: 65px;
+    left: 0px;
+    top: 0px;
+
+    background: #000000;
+}
+.logo {
+    width: 65px;
+    height: 65px;
+}
+.lol {
+    position: absolute;
+    top: 65px;
+    left: 0px;
+    width: 100%;
+    height: 940px;
+}
+.div {
+    z-index: 99;
+    position: absolute;
+    width: 100%;
+    height: 940px;
+    left: 0px;
+    top: 65px;
+
+    background: rgba(0, 0, 0, 0.6);
+}
+h1 {
+    left: 0px;
+    top: 167px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 73px;
+    text-align: center;
+    letter-spacing: 0.25em;
+    
+    color: #FCFCFC;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.h2 {
+    font-family: Oswald;
+    font-size: 35px;
+    color: #FBC400;
+    text-align: center;
+    top: 341px;
+    padding: 10px 450px 10px 450px;
+    margin: 23px 0 0 0;
+}
+
+.btn {
+    font-size: 18px;
+    font-family: 'Inter';
+    margin: 0 auto;
+    display: block;
+    width: 200px;
+    height: 50px;
+    
+    background: #2EDAF1;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
+.dayn {
+    margin: 71px auto 70px auto;
+    display:block;
+}
+.h3 {margin-bottom: 232px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: 0.4em;
+    
+    color: #FFFFFF;
+}
+.section {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    left: 0px;
+    top: 1005px;
+    background: #D9D6D6;
+}
+.photo {
+    margin: 0 auto;
+    display: block;
+}
+.br {
+    width: auto;
+    height: 4px;
+    background-color: #000000;
+}
+.ggwp {
+    font-size: larger;
+    font-family: 'Inter';
+    margin-top: 29px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.section2 {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    left: 0px;
+    top: 1609px;
+    background-color: #FFFFFF;
+}
+.br2 {
+    height: 4px;
+    width: 100%;
+    background-color: #000000;
+}
+.photo2 {
+    top: 1950px;
+    width: 350px;
+    height: 300px;
+    margin: 0 0 20px 0px;
+}
+.photo3 {
+    top: 1950px;
+    width: 350px;
+    height: 300px;
+    margin: 0 0 20px 150px;
+}
+.h002 {
+    font-size: larger;
+    font-family: 'Inter';
+    text-align: center;
+}
+.kvadrat {
+    text-align: center;
+}
